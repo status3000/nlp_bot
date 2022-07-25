@@ -1,4 +1,4 @@
-# Final Project at Elbrus Bootcamp DS11
+# NLP BOT SUMMARY
 ## Телеграм-бот, который сэкономит время и сделает вашу жизнь проще!
 
 ## Stack
@@ -15,7 +15,7 @@
 - NLP-модель на основе MBart генерит абстрактивное саммари статьи
 - Пользователю приходит сгенеренное короткое саммари с голосовой озвучкой и ссылкой на исходную статью
 
-![Header](https://github.com/lena-sapr/final_project/blob/main/assets/1%20parsers.gif)
+пример (https://github.com/status3000/nlp_bot/blob/master/gif_example/1_parsers_resized.gif)
 
 Дополнительная функциональность:
 - Пользователь может отправить в бот длинный текст и бот выдаст его короткое саммари
@@ -23,7 +23,7 @@
 - Выделение сущностей (NER - named entity recognition) из введенного текста. Текстовая модель на основе BERT выделит и подсветит такие сущности как: Персоны, Даты, События, Организации, Деньги и т.д, что может быть полезно для анализа текстов
 - Оцифровка документов - перевод картинки в редактируемый текст с помощью OCR
 
-![Header](https://github.com/lena-sapr/final_project/blob/main/assets/2%20add%20feat.gif)
+пример [доп опции](https://github.com/status3000/nlp_bot/blob/master/gif_example/2_add_feat_resized.gif)
 
 
 (БОНУС) Калькулятор расходов
