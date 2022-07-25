@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "count_of_people": 1,
+        "list_of_names": [],
+        "list_of_prices": []
+    },
+    {
+        "id": 899574373,
+        "count_of_people": "5",
+        "list_of_names": [
+            "q",
+            "s",
+            "d",
+            "f",
+            "a"
+        ],
+        "list_of_prices": []
+    },
+    {
+        "id": 481192303,
+        "count_of_people": "3",
+        "list_of_names": [
+            "Dog",
+            "Rat",
+            "Superrat"
+        ],
+        "list_of_prices": [
+            "145",
+            316.41
+        ]
+    },
+    {
+        "id": 748713938,
+        "count_of_people": "4",
+        "list_of_names": [
+            "Лена",
+            "Ваня",
+            "Саша",
+            "Витя"
+        ],
+        "list_of_prices": [
+            "500",
+            308.63,
+            "272727"
+        ]
+    }
+]
